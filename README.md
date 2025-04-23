@@ -11,8 +11,8 @@ This project uses Machine Learning techniques to predict the price of properties
 - Adjust scale and encoding where necessary.
 
 # Techniques and Models
-- Models tested: **Linear Regression, Random Forest, Gradient Boosting**
-- Chosen model: **Gradient Boosting Regressor**, with hyperparameter optimization
+- Models tested: **Linear Regression, Random Forest, Decision Tree**
+- Chosen model: **Random Forest Regressor**, with hyperparameter optimization
 ### Metrics used:
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Square Error)
